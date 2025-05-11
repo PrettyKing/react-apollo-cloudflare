@@ -5,7 +5,7 @@ export const posts = [
     title: "了解 Cloudflare Pages",
     content:
       "Cloudflare Pages 是一个JAMstack平台，让您可以轻松地部署静态网站...",
-    author: "张三",
+    author: "Chalee",
   },
   {
     id: "2",
